@@ -2,6 +2,22 @@
 A **HTML, CSS, JAVASCRIPT** application which is a ```recipe website``` focusing on junk food items.
 This is the **Accessible** , **SEO Optimized** web user interface.
 
+
+ <div align="center">
+     
+  <br />
+
+  <h2 align="center">Zwigato</h2>
+
+ Zwigato is a responsive junk food recipe website, maximum compatiblities in all mobile devices, built using HTML, CSS, JAVASCRIPT.
+
+  <a href=""><strong>➥ Live Demo</strong></a>
+
+</div>
+
+<br>
+
+
  ![zwigato1](https://github.com/harshita795/Zwigato/assets/73014908/6aa44027-4017-4ce8-a8dd-96c80c0176f1)
  ![zwi2](https://github.com/harshita795/Zwigato/assets/73014908/0bfc51c6-8788-46db-aa83-3fa4d391c528)
  ![zwi3](https://github.com/harshita795/Zwigato/assets/73014908/3642c145-2c9a-4d51-8abc-8292c1ec96a0)
