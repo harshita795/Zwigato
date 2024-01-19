@@ -1,4 +1,4 @@
-# Message-Printer
+# ZWIGATO (A JUNK FOOD Recipe Website)
 A **HTML, CSS, JAVASCRIPT** application which is a ```recipe website``` focusing on junk food items.
 This is the **Accessible** , **SEO Optimized** web user interface.
 
